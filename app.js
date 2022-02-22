@@ -30,6 +30,4 @@ a = q;
 b = temp;
 
 console.log(`The value of a after swapping: ${y}`);
-
-console.log("hej hej")
 console.log(`The value of b after swapping: ${b}`);
