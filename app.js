@@ -11,9 +11,9 @@ console.log(i)
 }
 
 const myObject = {
-    name = "Lukas",
+    name = "Lucas",
     age = 23,
-    "Last name": "Hagberg"
+    "Last name": "hey"
 }
 
 console.log(myObject["Last name"])
